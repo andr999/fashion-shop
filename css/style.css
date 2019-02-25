@@ -295,7 +295,7 @@ p {
     .slider .slider__btn:hover {
       background-color: #262626; }
   .slider .owl-nav .owl-prev, .slider .owl-nav .owl-next {
-    background: url("../../img/sprite-arrow.png") 0 0 no-repeat;
+    background: url("../img/sprite-arrow.png") 0 0 no-repeat;
     width: 49px;
     height: 49px;
     border: none;
@@ -786,7 +786,7 @@ p {
     .featured .featured__btn:hover {
       background-color: rgba(38, 38, 38, 0); }
   .featured .owl-nav .owl-prev, .featured .owl-nav .owl-next {
-    background: url("../../img/sprite-arrow2.png") 0 0 no-repeat;
+    background: url("../img/sprite-arrow2.png") 0 0 no-repeat;
     width: 49px;
     height: 49px;
     border: none;
